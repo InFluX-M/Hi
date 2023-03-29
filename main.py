@@ -6,5 +6,5 @@ def sub(x, y, o):
 def sub(x, y, z):
     return x - y - z
 
-def mul(x, y):
+def mul(x, y, q):
     return x * y
